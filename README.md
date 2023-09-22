@@ -1,5 +1,9 @@
 # forex_tick_downloader
 
+<p align="center">
+  <img src="./cover.png" alt="cover">
+</p>
+
 This Python script allows you to download tick data for a wide variety of Forex, CFD, and commodities symbols using the Duka data downloader library. You can specify the symbols, start and end dates, saving folder path, and other parameters to tailor the data download to your needs.
 
 ## Prerequisites
